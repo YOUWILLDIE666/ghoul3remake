@@ -10,3 +10,4 @@
 8. Find `ghoul3remake.pk3` file, **do NOT run gzdoom**
 9. Open (or associate) `ghoul3remake.pk3` with `gzdoom.exe`
 Done.
+Ghoul's Forest 3 Author : Cutmanmike
