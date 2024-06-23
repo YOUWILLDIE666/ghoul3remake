@@ -7,8 +7,8 @@
 5. Remember the controls **(optional, you can always check/change them through a file or in-game)**
 6. Go to the directory you've put
 7. Unpack `Ghouls Forest.7z`
-8. Find `ghoul3remake.pk3` file, **do NOT run gzdoom**
-9. Open (or associate) `ghoul3remake.pk3` with `gzdoom.exe`
+8. Find `gzdoom-uwu.ini` and rename it to `gzdoom-[YOUR WINDOWS USER NAME].ini` or just open `gzdoom.exe`, and it'll load your `.ini` config, replace `gzdoom-uwu.ini`'s name with UGH YOU KNOW WHAT TO DO.
+9. Find `ghoul3remake.pk3` and open (or associate) the file with `gzdoom.exe`
 <br>
 Done.
 <br>
