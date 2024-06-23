@@ -9,5 +9,6 @@
 7. Unpack `Ghouls Forest.7z`
 8. Find `ghoul3remake.pk3` file, **do NOT run gzdoom**
 9. Open (or associate) `ghoul3remake.pk3` with `gzdoom.exe`
+\n
 Done.
 Ghoul's Forest 3 Author : Cutmanmike
