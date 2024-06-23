@@ -6,7 +6,7 @@ from tkinter.messagebox import showerror as e
 
 import requests
 
-l = 'https://usaupload.com/77uj?download_token=90677532be18b26b84b46a68039b5d70a5779fb5f7998a04b5649110dec87b4f'
+l = 'https://usaupload.com/77uk/Ghouls_Forest.7z?download_token=a5b04dc54bfbfe1c2e52361aad33b032dbedd710e5e4e2ee672e856092704105'
 dic = adir()
 f = f'{dic}/Ghouls Forest.7z'
 
